@@ -11,13 +11,13 @@ const projects = [
     github: "https://github.com/kuldeep-01/Machine-learning",
   },
   {
-    title: "Bank Loan Analysis",
+    title: "Email Spam Classification",
     description:
-      "Analysis of bank loan data to evaluate the performance of lending activities. KPIs and metrics are extracted to deliver meaningful insights.",
+      "A Machine Learning based Spam Email Detection system that classifies emails as Spam or Ham using multiple ML models with an interactive Streamlit web app.",
     image: "/projects/project2.png",
-    tags: ["SQL", "Power BI", "Excel"],
-    link: "https://github.com/kuldeep-01/Loan-Report-Power-BI-",
-    github: "https://github.com/kuldeep-01/Loan-Report-Power-BI-",
+    tags: ["Python", "Scikit-learn", "Streamlit"],
+    link: "https://spam-email-detection34.streamlit.app/",
+    github: "https://github.com/kuldeep-01/Spam-Email-Detection",
   },
   {
     title: "Eat It : Food delivery Application",
